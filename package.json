@@ -1,0 +1,26 @@
+{
+  "name": "v12-kayit-altyapi",
+  "version": "0.0.1",
+  "description": "v12-kayit-altyapi",
+  "main": "damla.js",
+  "scripts": {
+    "start": "node damla.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "Ada",
+    "<3",
+    "Damla"
+  ]
+}
